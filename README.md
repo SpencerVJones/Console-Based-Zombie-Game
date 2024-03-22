@@ -22,7 +22,13 @@ This text-based adventure takes you on a thrilling journey through a deserted to
 - **Python**: The game logic and implementation are written in Python, a versatile programming language known for its simplicity and readability.
 - **Random Module**: The `random` module in Python is used to generate random numbers for various game elements such as damage, loot chances, and random events.
 - **Pickle Module**: The `pickle` module is used for saving and loading game progress, allowing players to resume their adventure at a later time.
+- **IDE:** PyCharm
 
 
 ## Contributing
 Contributions are welcome! 
+
+### You can contribute by:
+-  Reporting bugs
+-  Suggesting new features
+-  Submitting pull requests to improve the codebase
