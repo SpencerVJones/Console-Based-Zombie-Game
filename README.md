@@ -12,10 +12,13 @@ This text-based adventure takes you on a thrilling journey through a deserted to
 
 ## Usage : 
 1. Clone the repository to your local machine. 
-2. **Start the Game**: Run the Python script `zombie_apocalypse.py`.
-3. **Enter Your Name**: Input your name when prompted to personalize the game experience.
-4. **Explore the Town**: Navigate through the deserted town by choosing actions such as scavenging for supplies, using first aid items, and confronting zombies.
-5. **Survive and Thrive**: Make strategic decisions to survive the zombie apocalypse and emerge as a victorious survivor.
+2. **Start the Game**: Run the Python script:
+   ```
+   zombie_apocalypse.py
+   ```
+4. **Enter Your Name**: Input your name when prompted to personalize the game experience.
+5. **Explore the Town**: Navigate through the deserted town by choosing actions such as scavenging for supplies, using first aid items, and confronting zombies.
+6. **Survive and Thrive**: Make strategic decisions to survive the zombie apocalypse and emerge as a victorious survivor.
 
 
 ## Technologies Used: 
