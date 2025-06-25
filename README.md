@@ -1,4 +1,8 @@
 # Console Based Zombie Survival Game 
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Console-Based-Zombie-Game)
+</div>
 This text-based adventure takes you on a thrilling journey through a deserted town overrun by zombies. As a survivor, you must scavenge for supplies, confront the undead, and fight for your survival.
 
 
